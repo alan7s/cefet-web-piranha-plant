@@ -1,0 +1,20 @@
+h2{
+    color:limegreen;
+    font-family: 'Times New Roman', serif;
+    font-size: 22px;
+}
+blockquote{
+    margin-left: 60px;
+}
+#paragrafo-estilizado{
+    background-image: url(/imagens/fundo.png);
+    border: 3px solid limegreen;
+    padding: 10px;
+}
+img{
+    width: 300px;
+    border: 8px solid limegreen;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
